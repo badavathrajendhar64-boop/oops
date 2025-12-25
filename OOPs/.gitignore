@@ -1,1 +1,11 @@
+# Ignore Eclipse / IDE files
+.settings/
+.classpath
+.project
 /bin/
+
+# Keep source code
+src/
+
+# Keep README
+README.md
