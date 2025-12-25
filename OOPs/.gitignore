@@ -2,7 +2,7 @@
 .settings/
 .classpath
 .project
-/bin/
+bin/
 
 # Keep source code
 src/
